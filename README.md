@@ -2,7 +2,6 @@
 
 ### Software Dev
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=japndisal&label=Profile views&color=0e75b6&style=flat" alt="japndisal" /> </p>
 
 - 🔭 I'm currently working on **building go-to-market apps which aims to solve and generate more leads, inbound and outbound sales for companies.**
 
